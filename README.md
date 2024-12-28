@@ -25,7 +25,7 @@ The project implements the following forecasting models:
 **ARIMA Model**: A classical statistical method for time series forecasting.<br>
 **Prophet Model**: A model by Facebook designed for forecasting time series data.<br>
 **Random Forest Model**: A machine learning approach using ensemble learning techniques.<br>
-**AutoML**: Applay a autoML technique using Tpot library, chosen model py Tpot eas `XGBRegressor`.<br>
+**AutoML**: Applay a autoML technique using Tpot library, chosen model by Tpot is `XGBRegressor`.<br>
 
 # 🤝 Contributing
 I welcome contributions to improve this project! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
